@@ -1,5 +1,5 @@
 ## Oh hi, I'm Sean 👋
-- 🔭 I’m currently working on myself, RecipeManager, Price.com, Building Agents
+- 🔭 I’m currently working on TaskRiver.ai, Price.com, RAG Pipelines, and myself (when I can)
 - 🌱 I’m currently learning LLM APIs, Agentic Programming, Harnesses
 - 👯 I’m looking to collaborate on anything that pushes me to be a better engineer, husband, dog dad
 - 📫 How to reach me: hello@seanjones.io
